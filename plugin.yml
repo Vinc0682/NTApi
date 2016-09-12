@@ -1,0 +1,4 @@
+name: NTApi
+main: net.newtownia.NTApi.Main
+version: '1.2'
+author: Vinc0682
